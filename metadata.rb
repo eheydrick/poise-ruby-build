@@ -23,7 +23,7 @@ maintainer_email "noah@coderanger.net"
 source_url "https://github.com/poise/poise-ruby-build" if defined?(source_url)
 issues_url "https://github.com/poise/poise-ruby-build/issues" if defined?(issues_url)
 license "Apache 2.0"
-depends "git", "~> 5.0"
+depends "git", "~> 6.0"
 depends "build-essential", "~> 7.0"
 depends "poise", "~> 2.0"
 depends "poise-ruby", "~> 2.1"
